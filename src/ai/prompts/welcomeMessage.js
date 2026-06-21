@@ -1,0 +1,2 @@
+// src/ai/prompts/welcomeMessage.js
+export const welcomeMessage = `🤖 Ernest AI Agent\n\nHello! I'm Ernest's AI Agent.\n\nI can tell you about:\n\n• About Ernest\n• Skills\n• Experience\n• Projects\n• Education\n• Contact Information\n\nWhat can I help you with today?`;
