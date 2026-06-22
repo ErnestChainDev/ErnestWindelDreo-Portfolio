@@ -208,9 +208,8 @@ const Home = () => {
                   texts={[
                     "FULL STACK DEVELOPER",
                     "SOFTWARE ENGINEER",
-                    "WEB DEVELOPER",
-                    "QA ENGINEER",
-                    "AI ENGINEER",
+                    "Junior QA Engineer",
+                    "Aspiring AI Engineer",
                   ]}
                   speed={100}
                   pause={2000}
